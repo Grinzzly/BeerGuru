@@ -1,14 +1,16 @@
-import React, { Component } from 'react';
-import './App.less';
+import React from 'react';
+import { renderRoutes } from 'react-router-config';
+import './App.css';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        Beer Guru App
-      </div>
-    );
-  }
-}
+import { Header } from './modules';
 
-export default App;
+const App = ({ route }) => (
+  <div className="container">
+    <Header />
+    {renderRoutes(route.routes)}
+  </div>
+);
+
+export default {
+  component: App,
+};

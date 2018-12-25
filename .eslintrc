@@ -17,7 +17,11 @@
     "no-console": "off",
     "exclude": "/node_modules/",
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-    "operator-linebreak": [1, "after"]
+    "operator-linebreak": [1, "after"],
+    "linebreak-style": "off",
+    "import/prefer-default-export": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "class-methods-use-this": "off"
   },
   "parserOptions": {
     "ecmaFeatures": {

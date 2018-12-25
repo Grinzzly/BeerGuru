@@ -1,0 +1,13 @@
+.beer-list-similars {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+@media (max-width: 350px) {
+  .beer-list-similars {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

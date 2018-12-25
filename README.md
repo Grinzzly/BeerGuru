@@ -1,2 +1,6 @@
 # BeerGuru
-Let me guide you throught the world of BEER
+
+```sh
+$ npm i
+$ npm run start
+```

@@ -1,0 +1,8 @@
+.beer-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-auto-rows: 1fr;
+  grid-gap: 30px;
+  list-style: none;
+  margin-bottom: 1em;
+}
