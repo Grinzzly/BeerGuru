@@ -12,6 +12,9 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/60%25%20of%20the%20time-works%20every%20time-blue.svg" alt="Quality">
+  <br>
+  <br>
+  <img width="300" src="./mockups/logo.png" alt="Beer Guru">
 </div>
 
 
@@ -23,11 +26,14 @@ $ npm i
 $ npm run start
 ```
 
-##Demo
-
-<img align="center" src="./mockups/listing.png" alt="Listing">
-<br>
-<img align="center" src="./mockups/details.png" alt="Details">
+## Demo
+<div align="center">
+    <h4>List Page</h4>
+    <img width="600" src="./mockups/listing.png" alt="Listing">
+    <br>
+    <h4>Details Page</h4>
+    <img width="600" src="./mockups/details.png" alt="Details">
+</div>
 
 ##Technologies
 
