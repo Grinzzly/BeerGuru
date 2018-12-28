@@ -17,7 +17,11 @@
   <img width="300" src="./mockups/logo.png" alt="Beer Guru">
 </div>
 
+## About
 
+An app that helps anybody to find the best beer in the list of imaginary beers.
+`punkapi.com` API used in app to implement the data grabbing feature -
+I am way too lazy to make up all those beers...really there is tons of them!
 
 ## Installation
 
@@ -28,14 +32,14 @@ $ npm run start
 
 ## Demo
 <div align="center">
-    <h4>List Page</h4>
+    <h3>List Page</h3>
     <img width="600" src="./mockups/listing.png" alt="Listing">
     <br>
-    <h4>Details Page</h4>
+    <h3>Details Page</h3>
     <img width="600" src="./mockups/details.png" alt="Details">
 </div>
 
-##Technologies
+## Technologies in use
 
 * React
 * Redux
