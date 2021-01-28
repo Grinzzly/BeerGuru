@@ -1,16 +1,12 @@
 {
   "name": "beerguru",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "Let me guide you through the beer",
   "homepage": "./",
   "author": {
     "name": "Grinzzly",
     "url": "https://github.com/Grinzzly"
-  },
-  "engines": {
-    "node": "8.2.1",
-    "npm": "6.3.0"
   },
   "dependencies": {
     "axios": "^0.21.1",
